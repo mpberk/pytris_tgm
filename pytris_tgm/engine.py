@@ -9,7 +9,7 @@ from math import ceil, floor
 from enum import IntEnum
     
 # Tetris game
-class PytrisTGM:
+class Engine:
     # Constants
     NUM_COLS = 10
     NUM_ROWS = 20
