@@ -1,7 +1,4 @@
 # Pytris_TGM
-This is a python implementation of [Tetris](https://en.wikipedia.org/wiki/Tetris) using the [TGM](https://en.wikipedia.org/wiki/Tetris:_The_Grand_Master) [ruleset](http://tetris.wikia.com/wiki/Tetris_The_Grand_Master).
-
-# Pytris_TGM
 
 This is a python implementation of [Tetris](https://en.wikipedia.org/wiki/Tetris) using the [TGM](https://en.wikipedia.org/wiki/Tetris:_The_Grand_Master) [ruleset](http://tetris.wikia.com/wiki/Tetris_The_Grand_Master).
 
