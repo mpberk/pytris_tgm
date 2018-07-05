@@ -2,45 +2,13 @@
 
 This is a python implementation of [Tetris](https://en.wikipedia.org/wiki/Tetris) using the [TGM](https://en.wikipedia.org/wiki/Tetris:_The_Grand_Master) [ruleset](http://tetris.wikia.com/wiki/Tetris_The_Grand_Master).
 
-## Getting Started
+## TODO List
 
-TODO
-
-### Prerequisites
-
-TODO
-
-### Installing
-
-TODO
-
-## Running the tests
-
-TODO
-
-### Break down into end to end tests
-
-TODO
-
-### And coding style tests
-
-TODO
-
-## Deployment
-
-TODO
-
-## Built With
-
-TODO
-
-## Contributing
-
-TODO
-
-## Versioning
-
-TODO
+- [ ] Package up code to be used with pip install
+- [ ] Add pygame display functionality
+- [ ] Complete README documentation
+- [ ] Add automated testing
+- [ ] Add seed for randomization
 
 ## Authors
 
@@ -51,7 +19,3 @@ See also the list of [contributors](https://github.com/mpberk/pytris_tgm/contrib
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-TODO
