@@ -9,7 +9,7 @@ setuptools.setup(
     author="Matt Berk",
     author_email="matthew.p.berk@gmail.com",
     description="A python implementation of Tetris using the TGM ruleset",
-    long_description=long_description
+    long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/mpberk/pytris_tgm",
     packages=setuptools.find_packages(),

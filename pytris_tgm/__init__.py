@@ -1,2 +1,3 @@
-from .pytris_tgm import pytris_tgm
-name = "pytris_tgm"
+from pytris_tgm.engine import Engine
+from pytris_tgm.pytris_tgm_display_pygame import PytrisTGMDisplay
+project_name = "pytris_tgm"
